@@ -35,8 +35,8 @@ Liver illustration: NIAID / NIH (public domain)
 
 Welcome to my personal website!
 
-I am a researcher interested in understanding the cellular
-and molecular mechanisms underlying human diseases.
+I am a researcher interested in understanding the
+cellular and molecular mechanisms underlying human diseases.
 
 My work focuses on **single-cell and spatial transcriptomics**,
 with a particular interest in **liver vascular biology**.
@@ -56,71 +56,40 @@ and biological research to investigate complex tissues.
 
 ---
 
-<h2 style="color:#127E87;">💻 Computational Skills</h2>
-
-I use computational tools to analyze biological data:
-
-- Python
-- Scanpy and AnnData
-- Pandas and NumPy
-- Matplotlib and Seaborn
-- Differential gene expression analysis
-- Gene set enrichment analysis
-- Cell-cell communication analysis
-
----
-
-<h2 style="color:#127E87;">📊 Current Research</h2>
-
-### Understanding liver vascular diseases
-
-My research explores changes in the liver microenvironment
-using single-cell and spatial transcriptomics.
-
-I am particularly interested in understanding how vascular
-cells and other liver cell populations respond to disease
-and how their communication changes.
-
----
-
-<h2 style="color:#127E87;">🏛️ My Lab</h2>
+<h2 style="color:#127E87;">🏛️ My Research Lab</h2>
 
 I am part of the **Shalev Itzkovitz Lab** at the
 Weizmann Institute of Science.
 
-The lab studies the spatial organization and molecular
+Our lab studies the spatial organization and molecular
 biology of mammalian tissues.
 
 Explore our research resources and published datasets:
 
 <a href="https://shalevlab.weizmann.ac.il/resources/"
-   target="_blank" rel="noopener noreferrer"
-   style="display:inline-block; background:#127E87;
-          color:white; padding:12px 20px;
-          border-radius:8px; text-decoration:none;
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;
+          background-color:#127E87;
+          color:white;
+          padding:14px 24px;
+          border-radius:10px;
+          text-decoration:none;
           font-weight:bold;">
-   🔬 Visit Our Lab Website
+  🧬 Visit My Lab Website
 </a>
 
 ---
 
-<h2 style="color:#127E87;">🌱 Learning Python</h2>
-
-I am developing my programming skills through the
-WIS Python course.
-
-I enjoy applying Python to data analysis, visualization,
-and reproducible scientific research.
-
----
-
 <h2 style="color:#127E87;">🔗 Connect With Me</h2>
+
+You can explore my projects and learn more about my research:
 
 - [My GitHub Profile](https://github.com/delfip)
 - [Shalev Itzkovitz Lab](https://shalevlab.weizmann.ac.il/resources/)
 
 ---
 
-<p style="text-align:center; color:#127E87;">
+<p style="text-align:center; color:#127E87; font-size:17px;">
 <strong>Thanks for visiting my website!</strong>
 </p>
